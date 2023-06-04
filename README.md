@@ -10,7 +10,7 @@
 8. Conclusion
 
 # **Project Summary** -
-The analysis of the hotel bookings dataset has provided valuable insights into various aspects of the hotel industry. Here is a summary of the key findings:
+**The analysis of the hotel bookings dataset has provided valuable insights into various aspects of the hotel industry. Here is a summary of the key findings:**
 
 * **Number of Canceled Bookings**: By analyzing the dataset, we found the total number of bookings that were canceled. This information is crucial for understanding booking trends and managing reservation processes effectively.
 
