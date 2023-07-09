@@ -33,16 +33,17 @@ We will be using the data available to analyze the factors affecting the hotel b
 1. How Many Booking Were Cancelled?
 2. What is the booking ratio between Resort Hotel and City Hotel?
 3. What is the percentage of booking for each year?
-4. Which is the busiest month for hotels?
+4. What is the monthly customers each hotel is receiving?
 5. From which country most guests come?
-6. How Long People Stay in the hotel?
-7. Number of bookings on weekday vs weekends
-8. The revenue of the hotels
-9. Hotels available for booking
-10. Total bookings across years
-11. Total revenue across years split by hotel type
-12. From which country most guests come?
-13. How Long People Stay in the hotel?
+6. What is the average monthly rate per person?
+7. Number of bookings on weekday vs weekends.
+8. Hotels available for booking.
+9. Total bookings across years.
+10. Total revenue across years split by hotel type.
+11. Check in which hotel people like to stay and spend more time.
+(a). We will check for the week nights stay.
+(b). We will check for the weekends stay.
+12. How Long People Stay in the hotel?
 
 * **Define Your Business Objective?**
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions! This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data. Explore and analyse the data to discover important factors that govern the bookings.
