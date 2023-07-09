@@ -73,45 +73,84 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 #  Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 * **Chart - 1: How Many Booking Were Cancelled?**
 
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/4f5fa517-9b1d-4231-876c-5f2b9607d239)
-
-* **Chart - 2: Calculate the booking count for each hotel type.**
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/1ae0a208-3fcb-45d5-b042-8c1df84abb4c)
-
-* **Chart - 3: Number of bookings on weekday vs weekends.**
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/b4070759-2ae4-4db7-bcde-472b24a618f7)
-
-* **Chart - 4: The revenue of the hotels.**
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/f7899e07-7787-4975-85ff-b804ea14f10d)
-
-* **Chart - 5: Count the number of occurrences of each hotel category.**
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/d7265f6b-1a48-4980-a8e4-13a81d83795e)
-
-* **Chart - 6: Total bookings across years.**
-Total Bookings across years:
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/cbc0b529-d6de-41cb-8eda-11a45c5b866f)
-
-Total Bookings across Years by Hotel:
-
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/4322f85c-8ca8-4c1f-b3fb-74ee2d584edd)
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/94aee74b-7881-434f-9fe8-72605e39ac42)
 
 
-* **Chart - 7: Total revenue across years split by hotel type.**
+* **Chart - 2: 2. What is the booking ratio between Resort Hotel and City Hotel?**
 
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/95d1784c-37e4-4780-aa78-1b2f04681b0c)
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/affd9bb2-3d91-46f8-b3a3-5e6a1f5746bd)
 
-* **Chart - 8: From which country most guests come?**
 
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/eefcc858-d850-4d37-96ce-b56e0ec22edc)
 
-* **Chart - 9: How Long People Stay in the hotel?**
+* **Chart - 3: What is the percentage of booking for each year?**
 
-![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/c87a8b8c-b406-4f91-b6af-3da4aa6080d7)
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/4f616a37-3990-45a6-b118-d9328c6354ff)
+
+
+* **Chart - 4: What is the monthly customers each hotel is receiving?**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/3aa81969-6b04-4a54-abeb-398057d696ed)
+
+
+* **Chart - 5: From which country most guests come?**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/010713e6-b771-4f24-b3a1-09c6fcd70117)
+
+
+* **Chart - 6: What is the average monthly rate per person?**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/a2d0b01c-69a9-43af-9996-701f8905f118)
+
+
+* **Chart - 7: Number of bookings on weekday vs weekends.**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/e55b5446-da24-4033-ba85-d2f64473a42b)
+
+
+* **Chart - 8: Hotels available for booking.**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/8896c2c2-76c0-46ef-a436-73bb8bdd4bd4)
+
+
+* **Chart - 9: Total bookings across years.**
+* Total bookings across years:
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/420c8768-4325-46f7-a3e3-93c3d0a1f736)
+
+* Total bookings across years by hotels:
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/9e3225f2-ed65-43c4-93fb-8cf090c5f9ec)
+
+
+* **Chart - 10: Total revenue across years split by hotel type.**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/a4c2752d-f6fd-4d24-a101-45eccc3447e8)
+
+
+* **Chart - 11: Check in which hotel people like to stay and spend more time.**
+
+(a). We will check for the week nights stay.
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/0e4a9c08-3826-422e-bdab-0fdf1ff2d04a)
+
+(b). We will check for the weekends stay.
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/df021b9b-3ee5-4435-9365-1834a4ac4935)
+
+
+* **Chart - 12: How Long People Stay in the hotel?**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/289de4be-da03-40df-bccb-bb88a8b426b2)
+
+
+* **Chart - 13: Correlation Heatmap**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/9562aabe-344c-4614-a6cd-8a52579c1425)
+
+
+* **Chart - 14: Pair Plot**
+
+![image](https://github.com/humayel1/Hotel-Booking-Analysis/assets/134964717/1e6d12fa-1022-4961-97de-c697d7ec951e)
 
 
 # Solution to Business Objective
